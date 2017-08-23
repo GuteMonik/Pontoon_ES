@@ -18,14 +18,15 @@ Hay algunos criterios adicionales que se pueden utilizar para filtrar cadenas:
 
 Al hacer clic en el icono del embudo de la izquierda, es posible acceder a los filtros.
 
- https://raw.githubusercontent.com/mozilla-l10n/localizer-documentation/master/assets/images/pontoon/search_filters/filters.png
-
+<img src= "https://raw.githubusercontent.com/mozilla-l10n/localizer-documentation/master/assets/images/pontoon/search_filters/filters.png">
+ 
 
 En este punto es posible:
 * Da clic directamente en la descripción de uno de los filtros. Esto seleccionará y activará sólo este filtro y el marcador de posición del campo de búsqueda cambiará en consecuencia. Por ejemplo, al hacer clic en *Faltante* mostrará sólo las cadenas que faltan, y el marcador de posición leerá *Buscar en Faltante*.
 * Da clic en los iconos de cada filtro, o en los avatares del usuario, para aplicar varios filtros. Al colocar los iconos, puedes observar que se transforman en marcas de verificación. Aparecerá un nuevo botón *APPLY X FILTERS* en la parte inferior del panel, donde `X` es el número de filtros activos.
 
-https://raw.githubusercontent.com/mozilla-l10n/localizer-documentation/master/assets/images/pontoon/search_filters/filters_multiple.png
+<img src= "https://raw.githubusercontent.com/mozilla-l10n/localizer-documentation/master/assets/images/pontoon/search_filters/filters_multiple.png">
+
 
 En este caso se seleccionan 3 filtros. 
 
@@ -33,7 +34,7 @@ Para seleccionar un **rango de tiempo**, tú necesitas hacer clic en *EDITAR RAN
 
 Es posible buscar dentro de un proyecto utilizando el campo de búsqueda. Las búsquedas incluyen cadenas, identificación de cadena y comentarios.
 
-https://raw.githubusercontent.com/mozilla-l10n/localizer-documentation/master/assets/images/pontoon/search_filters/search_field.png
+<img src= "https://raw.githubusercontent.com/mozilla-l10n/localizer-documentation/master/assets/images/pontoon/search_filters/search_field.png">
 
 
 Ten en cuenta que las búsquedas tienen en cuenta los filtros activos, por ejemplo, una búsqueda se realizaría sólo en cadenas perdidas si se selecciona ese filtro.
