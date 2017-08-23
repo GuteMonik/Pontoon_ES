@@ -18,7 +18,7 @@ Se puede acceder a la configuración de usuario dando clic en el avatar de usuar
 
 <img src= https://raw.githubusercontent.com/mozilla-l10n/localizer-documentation/master/assets/images/pontoon/users/menu_settings.png>
 
-Tú imagen de perfil puede ajustarse en [Gravatar](http://gravatar.com/), mientras que el nombre mostrado puede editarse simplemente haciendo clic en él.
+Tú imagen de perfil puede ajustarse en [Gravatar](http://gravatar.com/), mientras que puedes editar el nombre que se muestra simplemente haciendo clic en él.
 
 <img src= https://raw.githubusercontent.com/mozilla-l10n/localizer-documentation/master/assets/images/pontoon/users/profile_page.png>
 
@@ -52,7 +52,7 @@ De forma predeterminada, solo hay una sección **General**: los permisos definid
 
 <img src= https://raw.githubusercontent.com/mozilla-l10n/localizer-documentation/master/assets/images/pontoon/users/permissions_general.png>
 
-Para mover a un usuario a una columna diferente simplemente coloca la dirección de correo electrónico: las flechas aparecerán para mover el elemento a la izquierda o a la derecha. Ten en cuenta que un usuario necesita haber iniciado sesión al menos una vez en Pontoon con el fin de actualizar su permiso –simplemente tener una cuenta Firefox no es suficiente.
+Para mover a un usuario a una columna diferente simplemente coloca la dirección de correo electrónico: las flechas aparecerán para mover el elemento a la izquierda o a la derecha. Ten en cuenta que un usuario necesita haber iniciado sesión al menos una vez en  [Pontoon](https://pontoon.mozilla.org/) con el fin de actualizar su permiso –simplemente tener una cuenta Firefox no es suficiente.
 
 Utiliza el botón *GUARDAR* para almacenar la configuración antes de salir de esta ventana.
 
@@ -62,4 +62,4 @@ Al hacer clic en *ADICIONAR PERMISOS PERSONALIZADOS POR PROYECTO* (resaltado en 
 
 <img src= https://raw.githubusercontent.com/mozilla-l10n/localizer-documentation/master/assets/images/pontoon/users/permissions_project.png>
 
-Tenga en cuenta que no es posible invalidar a los managers, ellos siempre podrán enviar traducciones en cualquiera de los proyectos disponibles para su local.
+Ten en cuenta que no es posible invalidar a los managers, ellos siempre podrán enviar traducciones en cualquiera de los proyectos disponibles para su local.
