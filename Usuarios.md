@@ -1,6 +1,6 @@
 # Cuentas de usuario y configuración
 
-- [Creating an account](#Creando-una-cuenta)
+- [Creando una cuenta](#Creando-una-cuenta)
 - [Configuraciones de usuario](#Configuraciones-de-usuario)
 - [Roles de usuarios](#Roles-de-usuario)
 - [Administración de permisos](#Administrador-de-permisos)
